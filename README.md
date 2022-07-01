@@ -1,9 +1,9 @@
-#Custom Name Entity Recognition model using SpaCy
+# Custom Name Entity Recognition model using SpaCy
 --------------------------------------------------------------------------------
 
 SpaCy is a library for advanced Natural Language Processing in Python and Cython. The project has a Name Entity Recognition(NER) model for the custom "FOOD" and the other pre-existed entities of SpaCy.
 
-# Documentation
+## Documentation
 -----------------------------------------
 
 ## Dataset Preparation
