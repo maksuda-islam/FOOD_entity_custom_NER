@@ -1,0 +1,28 @@
+{
+    "url":{
+        "base":"http://192.168.10.31/bds/",
+        "login":"Login.do",
+        "main":"Main.do",
+        "userSelfRegistration":"UserRegister.do"
+    },
+
+    "admin":[
+        {
+            "username":"admin",
+            "password":"admin"
+        }
+    ],
+
+    "RegisterUser":[
+        {
+           "EmailAddress":"maksuda10@nilavodev.com",
+           "ConfirmEmailAddress":"maksuda10@nilavodev.com",
+            "FirstName":"Maksuda",
+            "MiddleName": "Lima",
+            "LastName":"TEN",
+            "DisplayAs":"Maksuda TEN",
+            "Password":"1234",
+            "ConfirmPassword":"1234"
+        }
+    ]   
+}
